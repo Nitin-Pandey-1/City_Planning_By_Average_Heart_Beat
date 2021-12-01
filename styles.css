@@ -1,0 +1,33 @@
+body{
+    background-color: rgba(187, 243, 229, 0.884);
+}
+em{
+    border: solid;
+    border-width: 2px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+    text-align: center;
+}
+.article1{
+    border: solid;
+    border-width: 5px;
+    padding: 5px;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+img{
+    border:solid;
+    border-width: 3px;
+}
+.navi{
+    border:solid black;
+    border-width: 4px;
+    padding: 11px;
+    margin: 25px;
+    background-color: bisque;
+}
+a:hover{
+    background-color: rgb(140, 248, 149);
+    color:blueviolet;
+}

@@ -1,0 +1,34 @@
+.label{
+    font-size: larger;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    border: solid black;
+    border-width: 5px;
+    padding: 15px;
+    margin: 10px;
+}
+body{
+    background-color: rgba(187, 243, 229, 0.884);
+}
+input{
+    height: 30px;
+    width : 150px;
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+#submit{
+    background-color: rgb(226, 245, 159);
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    height: 70px;
+    width: 120px;
+}
+#submit:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    font-weight: bolder;
+    color: brown;
+}
